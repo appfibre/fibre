@@ -1,7 +1,4 @@
-fibre
-=====
-
-Meta-data model development framework
+fibre=====Meta-data model development framework
 
 Welcome to Fibre!
 
@@ -9,25 +6,136 @@ At the heart of Fibre is a development methodology that advocates development th
 
 At minimum, you will need one database (e.g. db/mssql) and one ui component (e.g. ui/web/php).  For each component peruse the readme file inside the component folder for installation instructions.
 
-Status: 	Incubation
-Version:	0.0
-Contributers:	DR - Dawid Rautenbach
 
-Roadmap	Task				Responsible	Estimated Progress 	Completion Date
-1. 	Create folder structure		DR		30%			
-2. 	Add Initial components:		DR	
- A.	 db/MSSQL			DR		0 %			
- B. 	 db/MYSQL 			DR		0 % 			
- C. 	 web/PHP			DR		0 %			
- D. 	 web/aspnet/mvc			DR		0 %			
-3. 	Propose contracts		DR		0 %
-3. 	Evaluate feedback		DR		0 %
-4. 	Update Components		DR		0 %
-5. 	Beta release			DR		0 %
-6. 	Evaluate feedback		DR		0 %
-7. 	Update Contracts & components	DR		0 %
-8. 	Public release			DR		0 %
+<table>
+	<tr>
+		<td>Status:</td>
+		<td>Incubation</td>
+	</tr>
+	<tr>
+		<td>Version:</td>
+		<td>0</td>
+	</tr>
+	<tr>
+		<td>Contributers:</td>
+		<td>DR - Dawid Rautenbach</td>
+	</tr>
+</table>
 
+
+<table border="1">
+    <thead>
+        <th colspan="2">Roadmap</th>
+        <th>Task</th>
+        <th>Responsible</th>
+        <th>Estimated Progress</th>
+        <th>Completion Date</th>
+    </thead>
+    <tr>
+	<td>1.</td>
+	<td>Create folder structure</td>
+	<td>DR</td>
+	<td>30%</td>
+	<td>&nbsp;</td>
+	<td>&nbsp;</td>
+    </tr>
+    <tr>
+	<td>2.</td>
+	<td>Add Initial components:</td>
+	<td>DR</td>
+	<td>0%</td>
+	<td>&nbsp;</td>
+	<td>&nbsp;</td>
+    </tr>
+    <tr>
+	<td>&nbsp;A.</td>
+	<td>&nbsp;db/MSSQL</td>
+	<td>DR</td>
+	<td>0%</td>
+	<td>&nbsp;</td>
+	<td>&nbsp;</td>
+    </tr>
+    <tr>
+	<td>&nbsp;B.</td>
+	<td>&nbsp;db/MYSQL </td>
+	<td>DR</td>
+	<td>0%</td>
+	<td>&nbsp;</td>
+	<td>&nbsp;</td>
+    </tr>
+    <tr>
+	<td>&nbsp;C.</td>
+	<td>&nbsp;web/PHP</td>
+	<td>DR</td>
+	<td>0%</td>
+	<td>&nbsp;</td>
+	<td>&nbsp;</td>
+    </tr>
+    <tr>
+	<td>&nbsp;D.</td>
+	<td>&nbsp;web/aspnet/mvc</td>
+	<td>DR</td>
+	<td>0%</td>
+	<td>&nbsp;</td>
+	<td>&nbsp;</td>
+    </tr>
+    <tr>
+	<td>3.</td>
+	<td>Propose contracts:</td>
+	<td>DR</td>
+	<td>0%</td>
+	<td>&nbsp;</td>
+	<td>&nbsp;</td>
+    </tr>
+    <tr>
+	<td>4.</td>
+	<td>Evaluate feedback:</td>
+	<td>DR</td>
+	<td>0%</td>
+	<td>&nbsp;</td>
+	<td>&nbsp;</td>
+    </tr>
+    <tr>
+	<td>5.</td>
+	<td>Update Components:</td>
+	<td>DR</td>
+	<td>0%</td>
+	<td>&nbsp;</td>
+	<td>&nbsp;</td>
+    </tr>
+    <tr>
+	<td>6.</td>
+	<td>Beta release</td>
+	<td>DR</td>
+	<td>0%</td>
+	<td>&nbsp;</td>
+	<td>&nbsp;</td>
+    </tr>
+    <tr>
+	<td>7.</td>
+	<td>Evaluate feedback</td>
+	<td>DR</td>
+	<td>0%</td>
+	<td>&nbsp;</td>
+	<td>&nbsp;</td>
+    </tr>
+    <tr>
+	<td>8.</td>
+	<td>Update Contracts & components</td>
+	<td>DR</td>
+	<td>0%</td>
+	<td>&nbsp;</td>
+	<td>&nbsp;</td>
+    </tr>
+    <tr>
+	<td>9.</td>
+	<td>Public release</td>
+	<td>DR</td>
+	<td>0%</td>
+	<td>&nbsp;</td>
+	<td>&nbsp;</td>
+    </tr>
+</table>
 
 
 
