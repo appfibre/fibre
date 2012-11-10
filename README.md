@@ -1,5 +1,5 @@
-fibre=====Meta-data model development framework
-
+fibre
+=====
 Welcome to Fibre!
 
 At the heart of Fibre is a development methodology that advocates development through configuration.  
@@ -26,8 +26,8 @@ At minimum, you will need one database (e.g. db/mssql) and one ui component (e.g
 <table border="1">
     <thead>
         <th colspan="2">Roadmap</th>
-        <th>Task</th>
         <th>Responsible</th>
+        <th>Task</th>
         <th>Estimated Progress</th>
         <th>Completion Date</th>
     </thead>
