@@ -1,4 +1,6 @@
-fibre=====Meta-data model development framework
+fibre
+=====
+Meta-data model development framework
 
 Welcome to Fibre!
 
